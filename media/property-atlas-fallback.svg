@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Private property atlas fallback</title>
+  <desc id="desc">Architectural residence study with atlas lines and a warm interior field.</desc>
+  <defs>
+    <linearGradient id="field" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f4efe6"/>
+      <stop offset="0.42" stop-color="#c9d3c3"/>
+      <stop offset="1" stop-color="#16231d"/>
+    </linearGradient>
+    <linearGradient id="stone" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.84"/>
+      <stop offset="1" stop-color="#e3dccf" stop-opacity="0.78"/>
+    </linearGradient>
+  </defs>
+  <rect width="1800" height="1200" fill="url(#field)"/>
+  <path d="M0 890c276-112 502-156 678-132 186 26 326 116 508 108 174-8 364-104 614-332v666H0Z" fill="#111814" opacity="0.34"/>
+  <g fill="url(#stone)" stroke="#14231c" stroke-opacity="0.24" stroke-width="6">
+    <path d="M210 220h760v610H210Z"/>
+    <path d="M970 360h610v470H970Z"/>
+    <path d="M370 360h420v320H370Z" fill="#efe8db"/>
+    <path d="M1125 470h285v210h-285Z" fill="#efe8db"/>
+  </g>
+  <g fill="none" stroke="#f4efe6" stroke-opacity="0.82" stroke-width="5">
+    <path d="M120 980 760 180M380 1045 1220 145M690 1100 1680 410"/>
+    <path d="M210 220h760v610H210ZM970 360h610v470H970Z"/>
+    <path d="M338 916h396M974 928h444"/>
+  </g>
+  <g fill="#8d241e">
+    <circle cx="970" cy="360" r="16"/>
+    <circle cx="370" cy="680" r="16"/>
+    <circle cx="1410" cy="470" r="16"/>
+  </g>
+  <g fill="#f8f4ec" font-family="Arial, Helvetica, sans-serif" letter-spacing="4">
+    <text x="118" y="122" font-size="34">FIELDWORK ESTATES</text>
+    <text x="118" y="170" font-size="18">PRIVATE PROPERTY ATLAS</text>
+    <text x="1280" y="1040" font-size="22">CAIRO / COAST / RED SEA</text>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" role="img" aria-labelledby="title desc">
+  <title id="title">FIELDWORK advisor portrait fallback</title>
+  <desc id="desc">Editorial advisor silhouette with real-estate atlas styling.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7f1e8"/>
+      <stop offset="0.58" stop-color="#cbd4c9"/>
+      <stop offset="1" stop-color="#15231d"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1100" fill="url(#bg)"/>
+  <circle cx="450" cy="360" r="150" fill="#f8f4ec" opacity="0.94"/>
+  <path d="M198 998c38-244 134-366 252-366s214 122 252 366Z" fill="#f8f4ec" opacity="0.92"/>
+  <g fill="none" stroke="#102018" stroke-opacity="0.24" stroke-width="6">
+    <path d="M110 160h680M110 880h680M170 80v940M730 80v940"/>
+    <path d="M155 760c180-80 362-82 590-6"/>
+  </g>
+  <circle cx="684" cy="216" r="14" fill="#8d241e"/>
+  <text x="94" y="1014" fill="#14231c" font-family="Arial, Helvetica, sans-serif" font-size="30" letter-spacing="4">FIELDWORK ADVISOR</text>
+</svg>
